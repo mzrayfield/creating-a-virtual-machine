@@ -1,8 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/hVT6usn" alt="Microsoft Active Directory Logo"/> 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hHoVrjN" data-context="false" ><a href="//imgur.com/a/hHoVrjN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</p>
-
+<img src="https://imgur.com/hVT6usn" /> 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
