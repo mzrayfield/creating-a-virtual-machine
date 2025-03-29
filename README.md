@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/hVT6usn.jpeg" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Creating a Virtual Machine</h1>
 Today i'll be showing how to make and deploy a virtual machine in Azure.<br />
 
 
@@ -14,12 +14,7 @@ Today i'll be showing how to make and deploy a virtual machine in Azure.<br />
 
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
 
 <h2>Deployment Steps</h2>
 
