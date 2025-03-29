@@ -31,6 +31,7 @@ Login to the Microsoft Azure homepage and go to Virtual Machines
 </p>
 <br />
 
+
 <p>
 <img src="https://i.imgur.com/JSK8Qnd.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -38,6 +39,7 @@ Login to the Microsoft Azure homepage and go to Virtual Machines
 Click create, then Azure Virtual Machine.
 </p>
 <br />
+
 
 <p>
 <img src="https://i.imgur.com/6L2Oh3d.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -47,6 +49,7 @@ Type in the name, select the region and timezone, choose the operating system. I
 </p   
 <br /> 
 
+
 <p>
 <img src="https://i.imgur.com/N09IadT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -54,6 +57,7 @@ Type in the name, select the region and timezone, choose the operating system. I
 Choose the VPU size, create a username and password.
 </p>
 <br /> 
+
 
 <p>
 <img src="https://i.imgur.com/GnXHNgj.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
